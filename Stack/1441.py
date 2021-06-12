@@ -1,7 +1,7 @@
 """
 Build an Array With Stack Operations
 
-Runtime: 32 ms, faster than 72.57% of Python3 online submissions
+Runtime: 28 ms, faster than 89.88% of Python3 online submissions
 for Build an Array With Stack Operations.
 Memory Usage: 14.3 MB, less than 48.84% of Python3 online submissions
 for Build an Array With Stack Operations.
