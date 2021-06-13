@@ -1,9 +1,9 @@
 """
 Valid Parentheses
 
-Runtime: 28 ms, faster than 84.89% of Python3 online submissions
+Runtime: 24 ms, faster than 95.45% of Python3 online submissions
 for Valid Parentheses.
-Memory Usage: 14.2 MB, less than 86.19% of Python3 online submissions
+Memory Usage: 14.1 MB, less than 86.19% of Python3 online submissions
 for Valid Parentheses.
 """
 
