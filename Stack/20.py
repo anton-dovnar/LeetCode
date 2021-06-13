@@ -25,4 +25,4 @@ class Solution:
                 last_seen = stack.pop()
                 if brackets[bracket] != last_seen:
                     return False
-        return True if not stack else False
+        return not stack
