@@ -20,4 +20,4 @@ class Solution:
             "Dec": "12"
         }
         date = date.split()
-        return f"{date[2]}-{months[date[1]]}-{date[0][:-2]}"
+        return f"{date[2]}-{months[date[1]]}-{date[0][:-2]:0>2}"
