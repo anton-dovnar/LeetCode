@@ -10,8 +10,8 @@ class Solution:
 
         while right - left >= k:
             if abs(arr[left] - x) > abs(arr[right] - x):
-                left = left + 1
+                left += 1
             else:
-                right = right - 1
+                right -= 1
 
         return arr[left:left + k]
